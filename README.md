@@ -25,4 +25,4 @@ A fun and interactive web app to test and improve your typing speed! This projec
 ## Try It Out
 
 1. Live Demo
-  https://jatin-typing-speed-tester.netlify.app/
+  https://www.mauryajatin.me/project/TypingTest
